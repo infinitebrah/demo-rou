@@ -8,3 +8,7 @@ git commit | Enviar o arquivo para o sistema de controle de versão(Git).
 git commit -m | Adiciona uma mensagem ao arquivo enviado. '-m' stands for message.
 #
 git push | Empurra as mudanças feitas para um repositório remoto
+#
+ls | grep - Pesquisa por keyword no repositório
+#
+ssh-keygen -t rsa -b 4096 -C <email> | gera uma ket
