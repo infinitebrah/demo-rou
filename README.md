@@ -2,7 +2,7 @@
 
 # PR(Pull Request) Função semelhante ao comando Diff que retorna todas as modificações feitas na feature branch e às compara com a master branch e te permite comentar as modificações realizadas.
 
-# Pull | Função semelhante ao push, mas serve para selar o merge. *Feature Branches são desnecessárias após merge(fundir as branches).*
+# Pull | Função semelhante ao push, mas serve para selar o merge localmente. *Feature Branches são desnecessárias após merge(fundir as branches).*
 
 # Comandos Git
 git clone | Clonar repositório.
@@ -32,3 +32,5 @@ git check out <branch> | troca de branch
 git check out -b <branch> | cria um novo branch
 #
 git status | retorna todos os arquivos modificados
+#
+git branch -d <branch> | comando que deleta o branch.
