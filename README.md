@@ -18,3 +18,11 @@ git remote add origin <link repositório> | Adiciona rep local para rep remoto
 git push origin master | Cria um novo repositório
 #
 git push -u | Mesma função do origin master, mas push origin master precisa vir primeiro.
+#
+git brench | retorna todos os branches do repositório
+#
+git check out <branch> | troca de branch
+#
+git check out -b <branch> | cria um novo branch
+#
+git status | retorna todos os arquivos modificados
