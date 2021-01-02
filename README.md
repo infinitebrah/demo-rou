@@ -26,3 +26,5 @@ git check out <branch> | troca de branch
 git check out -b <branch> | cria um novo branch
 #
 git status | retorna todos os arquivos modificados
+#
+git diff | retorna todos arquivos modificados e os compara
