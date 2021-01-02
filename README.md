@@ -1,3 +1,9 @@
+# Feature Branch é uma branch de testes que você modifica e depois funde(merge) com a master branch
+
+# PR(Pull Request) Função semelhante ao comando Diff que retorna todas as modificações feitas na feature branch e às compara com a master branch e te permite comentar as modificações realizadas.
+
+# Pull | Função semelhante ao push, mas serve para selar o merge. *Feature Branches são desnecessárias após merge(fundir as branches).*
+
 # Comandos Git
 git clone | Clonar repositório.
 #
@@ -26,5 +32,3 @@ git check out <branch> | troca de branch
 git check out -b <branch> | cria um novo branch
 #
 git status | retorna todos os arquivos modificados
-#
-git diff | retorna todos arquivos modificados e os compara
